@@ -198,7 +198,7 @@ padding-top: 8px;
 
 
 .about-me__info--title {
-font-size: 16px;
+margin-bottom: 16px;
 animation: fade-up 650ms 400ms backwards;
 
 }
