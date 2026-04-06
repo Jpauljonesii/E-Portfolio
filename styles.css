@@ -375,6 +375,7 @@ animation: fade-up 650ms 600ms backwards;
 
 .project__list {
     padding-top: 40px;
+    
 }
 
 .project__description {
@@ -398,8 +399,11 @@ animation: fade-up 650ms 600ms backwards;
 .project__description--link {
     font-size: 20px;
     margin-right: 16px;
+  
       
 }
+
+
 
 .project__description--title, 
 .project__description--sub-title, 
